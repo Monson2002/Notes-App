@@ -1,0 +1,15 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "notes taking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Monson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3"
+  }
+}
