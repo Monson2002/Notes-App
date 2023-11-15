@@ -8,7 +8,6 @@ function Titlebar(props) {
 
   const toggleNote = (e) => {
     e.preventDefault()
-    console.log(note);
     setnote(!note)
   }
 
